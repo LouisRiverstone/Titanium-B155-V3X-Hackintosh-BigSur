@@ -14,7 +14,6 @@ Opencore EFI Folder To Use With Avell Titanium B155 V3X For Hackintosh Big Sur
 
 ##  Not Working (yet)
     Bluetooth
-    Battery Patch
 
 ##  Never Work
     NVIDIA GeForce GTX 950m
