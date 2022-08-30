@@ -1,7 +1,7 @@
 # Titanium-B155-V3X-Hackintosh-Monterey
 OpenCore Configuration for BigSur/Monterey OS
 
-Using Opencore 0.7.5
+Using Opencore 0.8.3
 
 Opencore EFI Folder To Use With Avell Titanium B155 V3X For Hackintosh Big Sur
 
